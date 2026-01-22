@@ -1,12 +1,13 @@
 {
   "showDialog": true,
   "appVersionCode": 167,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-  "updateButtonText": "Update",
+  "messageText": "انتهت الفترة التجريبية المجانية لهذه النسخة.
+لتفعيل النسخة يُرجى الاشتراك عن طريق التواصل مع المطوّر مزاجنجي",
+  "updateButtonText": "تواصل مع المطور ",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
+  "cancelButtonText": "خروج ",
   "cancelClosesApp": true,
   "cancelButtonGradientStartColor": "#1E88E5",
   "cancelButtonGradientEndColor": "#64B5F6",
