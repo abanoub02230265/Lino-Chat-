@@ -1,13 +1,12 @@
 {
   "showDialog": true,
-  "appVersionCode": 167,
-  "messageText": "انتهت الفترة التجريبية المجانية لهذه النسخة.
-لتفعيل النسخة يُرجى الاشتراك عن طريق التواصل مع المطوّر مزاجنجي",
-  "updateButtonText": "تواصل مع المطور ",
+  "appVersionCode": 1,
+  "messageText": "انتهت الفتره التجربيه المجانيه لهذهي النسخه لتفعيل الاشتراك تواصل مع المطور مزاجنجي ",
+  "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "خروج ",
+  "cancelButtonText": "Cancel",
   "cancelClosesApp": true,
   "cancelButtonGradientStartColor": "#1E88E5",
   "cancelButtonGradientEndColor": "#64B5F6",
